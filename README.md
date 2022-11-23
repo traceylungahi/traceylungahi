@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello There 👋🏾, I'm Tracey 
 
-I am a full stack developer that enjoys building various web applications. I mostly enjoy backend development. Everyday is a day to learn something new, and therefore, I am still learning.
+I am a software engineer that enjoys building various web applications. I mostly enjoy backend development. Everyday is a day to learn something new, and therefore, I am still learning.
 
 - I am currently available for hire and open to new job opportunities or collaboration
 
